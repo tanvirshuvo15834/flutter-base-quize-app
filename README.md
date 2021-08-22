@@ -1,4 +1,4 @@
-# first_app
+# Quize App
 
 A new Flutter project.
 
